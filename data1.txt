@@ -1,0 +1,5 @@
+sn,name,age,add,phone
+1,Ram,34,Kathmandu,9808778745
+2,Shyam,22,Bhaktapur,9808112673
+3,Hari,23,Lalitpur,9808000000
+4,nabin,45,Jhapa,980823212
